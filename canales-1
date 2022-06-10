@@ -48,3 +48,6 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w2276
 
 #EXTINF:-1 tvg-logo=Â»LINK DEL LOGO DE LA SEÃ‘ALÂ» group-title=Â»AQUÃ ESCRIBE LA CATEGORIA DE SEÃ‘ALÂ», Imagen TV-Mexico
 https://stream-01.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkcahIESOhcbtY1IR-nqKah5gNWfDDpbvLesIeY-N04v)/dm/3/x82z4if/d/live-0.m3u8
+
+#EXTINF:-1 tvg-logo=Â»LINK DEL LOGO DE LA SEÃ‘ALÂ» group-title=Â»AQUÃ ESCRIBE LA CATEGORIA DE SEÃ‘ALÂ», Canal 24h - España
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_360.m3u8
